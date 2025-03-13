@@ -1,5 +1,5 @@
 SafeAimbotNeck, BAN
-SafeAimbotLegi, BAN
+SafeAimbotLegit, BAN
 SafeAimbotHead, RISK
 SafeFov2x, SAFE
 SafeAimScope, Ban
