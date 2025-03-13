@@ -1,17 +1,17 @@
 {
   "Panel": {
     "Aimbot": {
-      "SafeAimbotNeck": false,
-      "SafeAimbotLegit": false,
-      "SafeAimbotHead": false,
-      "SafeFov2x": false,
-      "SafeAimScope": false
+      "SafeAimbotNeck": "Safe",
+      "SafeAimbotLegit": "Risk",
+      "SafeAimbotHead": "Ban",
+      "SafeFov2x": "Safe",
+      "SafeAimScope": "Risk"
     },
     "Precison": {
-      "SafeNoRecoil": false,
-      "SafePrecison": false,
-      "SafeMiraVerde": false,
-      "SafeFovMiraBranca": false
+      "SafeNoRecoil": "Safe",
+      "SafePrecison": "Ban",
+      "SafeMiraVerde": "Risk",
+      "SafeFovMiraBranca": "Safe"
     }
   }
 }
