@@ -20,3 +20,8 @@ SafeAntenaMasculina, SAFE
 SafeModoFantasma, SAFE
 SafeSpeedMove, SAFE
 SafeAntBan, SAFE
+
+SafeAntBan, SAFE
+SafeAntBan, SAFE
+
+SafeAntBan, SAFE
