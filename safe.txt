@@ -1,3 +1,5 @@
-SafeAimbotNeck: Ativado
-SafeAimbotLegit: Desativado
-SafeFov2x: Ativado
+SafeAimbotNeck, risk
+SafeAimbotLegi, risk
+SafeAimbotHead, ban
+SafeFov2x, safe
+SafeAimScope, safe
