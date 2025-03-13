@@ -1,1 +1,17 @@
-
+{
+  "Panel": {
+    "Aimbot": {
+      "SafeAimbotNeck": false,
+      "SafeAimbotLegit": false,
+      "SafeAimbotHead": false,
+      "SafeFov2x": false,
+      "SafeAimScope": false
+    },
+    "Precison": {
+      "SafeNoRecoil": false,
+      "SafePrecison": false,
+      "SafeMiraVerde": false,
+      "SafeFovMiraBranca": false
+    }
+  }
+}
