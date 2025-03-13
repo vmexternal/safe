@@ -13,3 +13,4 @@ SafeEspMoco, SAFE
 SafeEspBranco, SAFE
 SafeEspTransparent, SAFE
 SafeEspBlueWhite, SAFE
+sFE,S
