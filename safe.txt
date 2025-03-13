@@ -4,6 +4,6 @@ SafeAimbotHead, RISK
 SafeFov2x, SAFE
 SafeAimScope, Ban
 SafeNoRecoil, SAFE
-SafePrecison, SAFE
+SafePrecision, SAFE
 SafeMiraVerde, SAFE
 SafeFovMiraBranca, SAFE
