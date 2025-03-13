@@ -11,5 +11,5 @@ SafeEspBox, SAFE
 SafeEspRed, SAFE
 SafeEspMoco, SAFE
 SafeEspBranco, SAFE
-SafeEspTransparent, SAFE
+SafeEspTransparent, SAFEe
 SafeEspBlueWhite, SAFE
