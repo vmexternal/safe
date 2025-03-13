@@ -13,4 +13,9 @@ SafeEspMoco, SAFE
 SafeEspBranco, SAFE
 SafeEspTransparent, SAFE
 SafeEspBlueWhite, SAFE
-sFE,S
+SafeCamlonge, SAFE
+SafeCamAlta, SAFE
+SafeAntenaFeminina, SAFE
+SafeAntenaMasculina, SAFE
+SafeModoFantasma, SAFE
+SafeSpeedMove, SAFE
