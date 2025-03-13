@@ -7,3 +7,9 @@ SafeNoRecoil, SAFE
 SafePrecision, SAFE
 SafeMiraVerde, SAFE
 SafeFovMiraBranca, SAFE
+SafeEspBox, SAFE
+SafeEspRed, SAFE
+SafeEspMoco, SAFE
+SafeEspBranco, SAFE
+SafeEspTransparenT, SAFE
+SafeEspBlueWhite, SAFE
