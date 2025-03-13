@@ -1,9 +1,3 @@
-SafeAimbotNeck: risk
-SafeAimbotLegit: risk
-SafeAimbotHead: ban
-SafeFov2x:  risk
-SafeAimScope: risk
-SafeNoRecoil: safe
-SafePrecison: safe
-SafeMiraVerde: safe
-SafeFovMiraBranca: safe
+SafeAimbotNeck: Ativado
+SafeAimbotLegit: Desativado
+SafeFov2x: Ativado
