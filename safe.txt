@@ -1,4 +1,4 @@
-SafeAimbotNeck, BAN
+SafeAimbotNeck, RISK
 SafeAimbotLegit, BAN
 SafeAimbotHead, RISK
 SafeFov2x, SAFE
