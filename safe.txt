@@ -1,5 +1,5 @@
-SafeAimbotNeck, risk
-SafeAimbotLegi, risk
+SafeAimbotNeck, RISK
+SafeAimbotLegi, TESTE
 SafeAimbotHead, ban
 SafeFov2x, safe
 SafeAimScope, safe
