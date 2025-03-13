@@ -1,5 +1,9 @@
-SafeAimbotNeck, RISK
-SafeAimbotLegi, TESTE
-SafeAimbotHead, ban
-SafeFov2x, safe
-SafeAimScope, safe
+SafeAimbotNeck, BAN
+SafeAimbotLegi, BAN
+SafeAimbotHead, RISK
+SafeFov2x, SAFE
+SafeAimScope, Ban
+SafeNoRecoil, SAFE
+SafePrecison, SAFE
+SafeMiraVerde, SAFE
+SafeFovMiraBranca, SAFE
